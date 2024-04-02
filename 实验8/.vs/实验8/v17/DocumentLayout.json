@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F44A2F-38AA-41E5-953D-316AA921FE22}|\u5B9E\u9A8C8.vcxproj|solutionrelative:sy8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 607,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sy8-8.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-8.cpp",
+              "RelativeDocumentMoniker": "sy8-8.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-8.cpp",
+              "RelativeToolTip": "sy8-8.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:50:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sy8-7.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-7.cpp",
+              "RelativeDocumentMoniker": "sy8-7.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-7.cpp",
+              "RelativeToolTip": "sy8-7.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:46:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sy8-6.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-6.cpp",
+              "RelativeDocumentMoniker": "sy8-6.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-6.cpp",
+              "RelativeToolTip": "sy8-6.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:44:02.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sy8-5.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-5.cpp",
+              "RelativeDocumentMoniker": "sy8-5.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-5.cpp",
+              "RelativeToolTip": "sy8-5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:37:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sy8-4.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-4.cpp",
+              "RelativeDocumentMoniker": "sy8-4.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-4.cpp",
+              "RelativeToolTip": "sy8-4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:33:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sy8-3.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-3.cpp",
+              "RelativeDocumentMoniker": "sy8-3.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-3.cpp",
+              "RelativeToolTip": "sy8-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:30:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sy8-2.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-2.cpp",
+              "RelativeDocumentMoniker": "sy8-2.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-2.cpp",
+              "RelativeToolTip": "sy8-2.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:26:30.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sy8-1.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-1.cpp",
+              "RelativeDocumentMoniker": "sy8-1.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C8\\sy8-1.cpp",
+              "RelativeToolTip": "sy8-1.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T10:22:19.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

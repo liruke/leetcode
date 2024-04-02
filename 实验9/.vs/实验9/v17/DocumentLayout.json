@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|solutionrelative:sy9-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|solutionrelative:sy9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|solutionrelative:sy9-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC27809-4403-4339-9178-ECBEFF919B71}|\u5B9E\u9A8C9.vcxproj|solutionrelative:sy9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 607,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sy9-4.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-4.cpp",
+              "RelativeDocumentMoniker": "sy9-4.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-4.cpp",
+              "RelativeToolTip": "sy9-4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T13:41:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sy9-3.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-3.cpp",
+              "RelativeDocumentMoniker": "sy9-3.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-3.cpp",
+              "RelativeToolTip": "sy9-3.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T13:29:41.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sy9-2.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-2.cpp",
+              "RelativeDocumentMoniker": "sy9-2.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-2.cpp",
+              "RelativeToolTip": "sy9-2.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T11:09:24.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sy9-1.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-1.cpp",
+              "RelativeDocumentMoniker": "sy9-1.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\\u5B9E\u9A8C9\\sy9-1.cpp",
+              "RelativeToolTip": "sy9-1.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T11:04:20.604Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
